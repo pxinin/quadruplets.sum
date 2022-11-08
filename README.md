@@ -1,0 +1,1 @@
+I have been testing the code with the unit test! You can test it by running the QuadrupletsSumCheckerTests.testCheckers test.
